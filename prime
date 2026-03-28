@@ -1,0 +1,4 @@
+# List of allowed IPs/Subnets
+security.allowed-ips[0]=127.0.0.1
+security.allowed-ips[1]=192.168.1.50
+security.allowed-ips[2]=10.0.0.0/24
